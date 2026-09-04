@@ -50,3 +50,4 @@ addReview(1, 5, "Amazing book! A true classic.");
 addReview(2, 4, "Epic story, but a bit long.");
 
 console.log("All reviews:", reviews);
+// Updated with better error handling
